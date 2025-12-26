@@ -84,6 +84,48 @@ val StatusGradientEnd = Color(0xFF03A65A)    // Darker green gradient
 val SearchBarLight = Color(0xFFF0F2F5)       // Light search (updated)
 val SearchBarDark = Color(0xFF202C33)        // Dark search (updated)
 
+// FUTURISTIC NEON COLORS (FROM VTEXTER)
+// Primary neon colours
+
+val NeonBlue = Color(0xFF00D4FF)
+val NeonPink = Color(0xFFFF006E)
+val NeonPurple = Color(0xFF8B00FF)
+val NeonGreen = Color(0xFF00FF88)
+val NeonOrange = Color(0xFFFF6B35)
+val NeonYellow = Color(0xFFFFFF00)
+val NeonRed = Color(0xFFFF0040)
+
+// Dark background colors for futuristic theme
+val DarkBackground = Color(0xFF0A0A0A)
+val DarkSurface = Color(0xFF1A1A1A)
+val DarkCard = Color(0xFF2A2A2A)
+
+// Text colors for futuristic theme
+val PrimaryText = Color(0xFFFFFFFF)
+val SecondaryText = Color(0xFFB0B0B0)
+val DisabledText = Color(0xFF666666)
+
+// Status colors for futuristic theme
+val FuturisticSuccess = Color(0xFF00C853)
+val FuturisticWarning = Color(0xFFFF9800)
+val FuturisticError = Color(0xFFFF5252)
+val FuturisticInfo = Color(0xFF2196F3)
+
+// Gradient colors for animations
+val GradientStart = Color(0xFF00D4FF)
+val GradientEnd = Color(0xFF8B00FF)
+
+// Border colors for futuristic theme
+val BorderLight = Color(0xFF333333)
+val BorderActive = Color(0xFF00D4FF)
+
+// Additional color for(compatibility)
+val Cyan = NeonBlue
+val Purple = NeonPurple
+val Orange = NeonOrange
+val Pink = NeonPink
+val Yellow = NeonYellow
+
 // Additional utility colors
 val DividerLight = Color(0xFFE9EDEF)
 val DividerDark = Color(0xFF2A3942)
