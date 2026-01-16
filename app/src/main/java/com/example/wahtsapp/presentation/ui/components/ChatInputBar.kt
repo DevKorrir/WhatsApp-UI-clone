@@ -35,7 +35,9 @@ fun ChatInputBar(
             colors = OutlinedTextFieldDefaults.colors(
                 unfocusedBorderColor = Neutral30,
                 focusedBorderColor = WhatsAppGreen,
-                cursorColor = WhatsAppGreen
+                cursorColor = WhatsAppGreen,
+                focusedTextColor = Color.Black,
+                unfocusedTextColor = Color.Black
             )
         )
         

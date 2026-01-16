@@ -15,14 +15,14 @@ val WhatsAppDarkGreenLight = Color(0xFF056162) // Outgoing message dark mode (up
 
 // ========== NEUTRAL PALETTE ==========
 // Light mode neutrals - Refined
-val Neutral10 = Color(0xFFFFFFFF)      // White background
+val Neutral10 = Color(0xFFE8F5E9)      // White background
 val Neutral15 = Color(0xFFF7F8FA)      // Very light gray (adjusted)
 val Neutral20 = Color(0xFFF0F2F5)      // Light surface (updated)
 val Neutral25 = Color(0xFFE9EDEF)      // Lighter gray (updated)
 val Neutral30 = Color(0xFFE1E3E6)      // Divider light (adjusted)
 val Neutral40 = Color(0xFFD1D7DB)      // Light border (adjusted)
 val Neutral50 = Color(0xFF8696A0)      // Disabled light (updated to WhatsApp gray)
-val Neutral60 = Color(0xFF667781)      // Secondary text light (updated)
+val Neutral60 = Color(0xFF21252D)      // Secondary text light (updated)
 val Neutral70 = Color(0xFF54656F)      // Hint text light (updated)
 val Neutral80 = Color(0xFF3B4A54)      // Primary text light (updated)
 
@@ -41,7 +41,7 @@ val OutgoingMessageDark = Color(0xFF005C4B)   // Updated to match WhatsApp exact
 val IncomingMessageDark = Color(0xFF202C33)   // Updated to match dark theme
 
 // Chat backgrounds - Refined
-val ChatBackgroundLight = Color(0xFFEFEAE2)   // Warmer beige tone (updated)
+val ChatBackgroundLight = Color(0xFFDDE3E8)   // Warmer beige tone (updated)
 val ChatBackgroundDark = Color(0xFF0B141A)    // Updated to match exact dark background
 
 // ========== STATUS COLORS ==========
